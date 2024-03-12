@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fruits</string>
+    <string name="profile_name">Fruits</string>
+
+    <string name="my_name">Heri Cahyono</string>
+    <string name="my_email">hericahyononew@gmail.com</string>
+
+    <string name="fruits_name">Fruits Name</string>
+    <string name="fruits_species">Fruits Species</string>
+
+    <string name="fruits_detail">Division \nClass \nOrdo \nFamili \nGenus</string>
+    <string name="fruits_content_detail">Classification</string>
+    <string name="fruits_overview">Description</string>
+    <string name="fruits_content_overview">Content Description</string>
+
+
+</resources>
